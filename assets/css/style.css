@@ -153,6 +153,7 @@ li {
   margin-bottom: 20px;
   display: list-item;
   background-color: #7fffd4;
+  list-style-type: decimal;
   list-style-position: inside;
 }
 
